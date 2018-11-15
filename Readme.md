@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MyDetailsWorker.cs](./CS/WinWebSolution.Module/MyDetailsWorker.cs) (VB: [MyDetailsWorker.vb](./VB/WinWebSolution.Module/MyDetailsWorker.vb))
+<!-- default file list end -->
 # OBSOLETE - How to implement Controller or Action that will be active only in the "My Details" window
 
 
